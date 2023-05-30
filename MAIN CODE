@@ -4,12 +4,12 @@
 #include <SoftwareSerial.h>
 #include <SimpleTimer.h>
 
-char auth[] = " a37f4a106f3e4ba19d764fc24cd42d53";
+char auth[] = " blynk autho";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "openwifi";
-char pass[] = "qwerty12";
+char ssid[] = "-------";
+char pass[] = "-------";
 
 SimpleTimer timer;
 
